@@ -39,6 +39,13 @@ This project was built **for learning purposes** to:
 
 ---
 
+## 🛠 Skills Practiced
+- Semantic HTML
+- CSS Flexbox & Grid
+- JavaScript DOM manipulation
+- Animation & transitions
+- Design recreation from reference
+
 ## ⚠️ Device Support
 This project is **optimized for desktop/laptop screens only**.  
 It may not display correctly on mobile or tablet devices.
