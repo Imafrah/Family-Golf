@@ -16,7 +16,7 @@ The goal was to replicate its **clean layout, interactive elements, and professi
 ## 🛠 Tech Stack
 - **HTML5** – Semantic and accessible markup  
 - **CSS3** – Flexbox, Grid, animations, and transitions  
-- **JavaScript (ES6)** – DOM manipulation & interactivity  
+- **JavaScript (ES6)** – DOM manipulation,GSAP & interactivity  
 
 ---
 
@@ -35,7 +35,7 @@ This project was built **for learning purposes** to:
 ---
 
 ## 🚀 Live Demo
-[Click here to view the project](#) <!-- Replace with your live link -->
+[Click here to view the project](https://imafrah.github.io/Family-Golf/) <!-- Replace with your live link -->
 
 ---
 
